@@ -1,0 +1,43 @@
+{
+  "data_period": "2023-24",
+  "phn_count": 31,
+  "seifa_population_coverage_pct_range": [
+    99.90086251826946,
+    100.0
+  ],
+  "national_age_standardised_pph_rate_per_100k": 2617.0,
+  "top_five_phns_by_pph_rate": [
+    {
+      "phn_code": "PHN701",
+      "phn_name": "Northern Territory",
+      "rate_per_100k": 5913.0,
+      "population_weighted_irsd_score": 922.0067928427475
+    },
+    {
+      "phn_code": "PHN305",
+      "phn_name": "Western Queensland",
+      "rate_per_100k": 5380.0,
+      "population_weighted_irsd_score": 953.2307338864808
+    },
+    {
+      "phn_code": "PHN304",
+      "phn_name": "Darling Downs and West Moreton",
+      "rate_per_100k": 3582.0,
+      "population_weighted_irsd_score": 959.6883874335667
+    },
+    {
+      "phn_code": "PHN306",
+      "phn_name": "Central Queensland, Wide Bay, Sunshine Coast",
+      "rate_per_100k": 3550.0,
+      "population_weighted_irsd_score": 977.5110754525805
+    },
+    {
+      "phn_code": "PHN307",
+      "phn_name": "Northern Queensland",
+      "rate_per_100k": 3474.0,
+      "population_weighted_irsd_score": 971.217332701763
+    }
+  ],
+  "pearson_r_pph_rate_vs_irsd_score": -0.5768494834997209,
+  "association_interpretation": "A negative correlation means higher PPH rates tend to coincide with lower IRSD scores (greater area-level disadvantage); it is descriptive and does not establish causation."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Population Health Needs",
+  "dataColors": ["#1B6CA8", "#E07A2D", "#4D9078", "#8B6FA8", "#D5B84A"],
+  "background": "#FFFFFF",
+  "foreground": "#263238",
+  "tableAccent": "#1B6CA8"
+}
